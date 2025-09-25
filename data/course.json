@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ],
+    [
+      "Society"
+    ]
+  ],
+  "legacy_uid": "b65eee2f-9e15-c617-0893-1f4dabde8795",
+  "instructors": {
+    "content": [
+      "02fa8dea-9e35-ace2-2a5a-11aa73eda926"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9ae6895d-9c36-f212-a378-90131aeeb259",
+    "website": "sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017"
+  },
+  "course_title": "Innovation Systems for Science, Technology, Energy, Manufacturing, and Health",
+  "hide_download": true,
+  "course_description": "This course focuses on science and technology policy\u2014it will examine the science and technology innovation system, including case studies on energy, computing, advanced manufacturing, and health sectors, with an emphasis on public policy and the federal government's role in that system.\n",
+  "department_numbers": [
+    "STS",
+    "17"
+  ],
+  "extra_course_numbers": "17.395J",
+  "primary_course_number": "STS.081",
+  "course_image_thumbnail": {
+    "content": "3b628a78-aa8f-57ff-1fac-4d2d959d4719",
+    "website": "sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "2482117b-95d7-46e8-9c04-d2cc784874ac",
+  "site_short_id": "sts.081-spring-2017",
+  "site_url_path": "courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017",
+  "title": "Course Metadata"
+}
